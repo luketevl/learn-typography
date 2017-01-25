@@ -25,26 +25,26 @@ Learning typography
 
 ## PROPERTIES
 ### HEIGHTS
-![Image of font FANTASY](https://github.com.br/luketevl/learn-typography/tree/master/alura/aulas_base/img/aula-1/tipografia-guias.png)
+![Image of font FANTASY](https://github.com.br/luketevl/learn-typography/blob/master/alura/aulas_base/img/aula-1/tipografia-guias.png)
 
 
 - **X** | **Height** of the _lower case_ **letter** of the font.
-![Image of font FANTASY](https://github.com.br/luketevl/learn-typography/tree/master/imgs/guide-x.png)
+![Image of font FANTASY](https://github.com.br/luketevl/learn-typography/blob/master/imgs/guide-x.png)
 
 - **VERSAL** | **Distance** from the _baseline_ to the _top_ of the **capital letter**.
-![Image of font FANTASY](https://github.com.br/luketevl/learn-typography/tree/master/imgs/guide-versal.png)
+![Image of font FANTASY](https://github.com.br/luketevl/learn-typography/blob/master/imgs/guide-versal.png)
 
 - **ASCENDANT** | **Height** that some _lowercase_ **letters** reach, being able to _equal_ the height of **versal**.
-![Image of font FANTASY](https://github.com.br/luketevl/learn-typography/tree/master/imgs/guide-ascendant.png)
+![Image of font FANTASY](https://github.com.br/luketevl/learn-typography/blob/master/imgs/guide-ascendant.png)
 
 - **DESCENDANT** | _Length_ that some letters reach for the _bottom of the baseline_.
-![Image of font FANTASY](https://github.com.br/luketevl/learn-typography/tree/master/imgs/guide-descendant.png)
+![Image of font FANTASY](https://github.com.br/luketevl/learn-typography/blob/master/imgs/guide-descendant.png)
 
 - **Baseline** | **Axis** that _aligns all characters_.
-![Image of font FANTASY](https://github.com.br/luketevl/learn-typography/tree/master/imgs/guide-baseline.png)
+![Image of font FANTASY](https://github.com.br/luketevl/learn-typography/blob/master/imgs/guide-baseline.png)
 
 - **Saliênca** | **Curves** at _the base_ of letters that extend beyond the _baseline_, used to _balance the text_. If the types were not positioned like this, they would appear to be wobbling along a text.
-![Image of font FANTASY](https://github.com.br/luketevl/learn-typography/tree/master/imgs/guide-saliencia.png)
+![Image of font FANTASY](https://github.com.br/luketevl/learn-typography/blob/master/imgs/guide-saliencia.png)
 
 
 
