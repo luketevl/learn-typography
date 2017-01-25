@@ -29,7 +29,7 @@ Learning typography
 
 
 - **X** | **Height** of the _lower case_ **letter** of the font.
-![Image of font FANTASY](http://imgur.com/LZZ3h5i.jpg)
+![Image of font FANTASY](http://i.imgur.com/mmChenB.png)
 
 - **VERSAL** | **Distance** from the _baseline_ to the _top_ of the **capital letter**.
 ![Image of font FANTASY](http://i.imgur.com/ArJEqrs.png)
