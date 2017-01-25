@@ -25,7 +25,7 @@ Learning typography
 
 ## PROPERTIES
 ### HEIGHTS
-![Image of font FANTASY](https://github.com.br/luketevl/learn-typography/blob/master/alura/aulas_base/img/aula-1/tipografia-guias.png)
+![Image of font FANTASY](alura/aulas_base/img/aula-1/tipografia-guias.png)
 
 
 - **X** | **Height** of the _lower case_ **letter** of the font.
